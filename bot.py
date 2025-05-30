@@ -4,7 +4,7 @@ import numpy as np
 from datetime import datetime
 
 # Telegram Bot Token
-API_TOKEN = '7838948696:AAHvN020x0NYDxLhKUQqj5rULAS72cad_c'
+API_TOKEN = '7838948696:AAHvNO20x0NYDxL0hKUQqj5rUlAS72cad_c'
 bot = telebot.TeleBot(API_TOKEN)
 
 # Binance API URL for 1-minute candles (BTCUSDT pair)
